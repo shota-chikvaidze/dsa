@@ -3,16 +3,13 @@
 My daily LeetCode & NeetCode solutions in TypeScript.
 
 ## Structure
-\```
+```
 dsa/
   leetcode/
-    arrays/
-    sliding_window/
-    binary_search/
+    stack/
   neetcode/
     arrays_hashing/
-    two_pointers/
-\```
+```
 
 ## Progress
 | Date | Problem | Difficulty | Topic |
