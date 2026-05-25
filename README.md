@@ -17,4 +17,5 @@ dsa/
 ## Progress
 | Date | Problem | Difficulty | Topic |
 |------|---------|------------|-------|
-| 2026-05-25 | Two Sum | Easy | Arrays |
+| 2026-05-25 | Valid Parentheses | Easy | Stack |
+| 2026-05-25 | Dynamic Array | Easy | Arrays |
