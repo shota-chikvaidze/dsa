@@ -18,3 +18,4 @@ dsa/
 | 2026-05-25 | Dynamic Array | Easy | Arrays |
 | 2026-05-26 | Longest Consecutive Sequence | Medium | Arrays |
 | 2026-05-27 | Products of Array Except Self | Medium | Arrays |
+| 2026-05-28 | Two Integer Sum II | Medium | two pointers |
