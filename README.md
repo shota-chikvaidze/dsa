@@ -22,3 +22,5 @@ dsa/
 | 2026-05-29 | Three sum | Medium | two pointers |
 | 2026-05-29 | Valid palindrome | easy | two pointers |
 | 2026-05-30 | Container With Most Water | medium | two pointers |
+| 2026-05-31 | Not sorted two sum | easy | Arrays and hashing |
+| 2026-05-31 | Group Anagrams | medium | Arrays and hashing |
