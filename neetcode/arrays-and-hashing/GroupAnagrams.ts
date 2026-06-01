@@ -1,7 +1,7 @@
 // Group Anagrams
 // https://neetcode.io/problems/anagram-groups
 
-class Solution {
+class GroupAnagrams {
     /**
      * @param {string[]} strs
      * @return {string[][]}

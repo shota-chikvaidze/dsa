@@ -24,3 +24,5 @@ dsa/
 | 2026-05-30 | Container With Most Water | medium | two pointers |
 | 2026-05-31 | Not sorted two sum | easy | Arrays and hashing |
 | 2026-05-31 | Group Anagrams | medium | Arrays and hashing |
+| 2026-06-1 | Valid Anagram | easy | Arrays and hashing |
+| 2026-06-1 | Contains Duplicate | easy | Arrays and hashing |

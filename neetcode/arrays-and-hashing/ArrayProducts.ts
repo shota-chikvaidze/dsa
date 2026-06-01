@@ -3,7 +3,7 @@
 
 // solution 1 with big o notation of o(n^2)
 
-class Solution {
+class ArrayProducts {
     /**
      * @param {number[]} nums
      * @return {number[]}

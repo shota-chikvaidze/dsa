@@ -2,7 +2,7 @@
 // https://neetcode.io/problems/two-integer-sum/question
 
 
-class Solution {
+class TwoSum {
     /**
      * @param {number[]} nums
      * @param {number} target

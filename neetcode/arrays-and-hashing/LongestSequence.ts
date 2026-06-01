@@ -2,7 +2,7 @@
 // https://neetcode.io/problems/longest-consecutive-sequence
 
 
-class Solution {
+class LongestSequence {
     /**
      * @param {number[]} nums
      * @return {number}
@@ -39,6 +39,6 @@ class Solution {
     }
 }
 
-const longestConsecutive = new Solution()
+const longestConsecutive = new LongestSequence()
 
 longestConsecutive.longestConsecutive([1, 3, 2, 5, 10, 4, 6,])
