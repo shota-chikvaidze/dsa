@@ -26,3 +26,4 @@ dsa/
 | 2026-05-31 | Group Anagrams | medium | Arrays and hashing |
 | 2026-06-1 | Valid Anagram | easy | Arrays and hashing |
 | 2026-06-1 | Contains Duplicate | easy | Arrays and hashing |
+| 2026-06-2 | Trapping rain water | hard | two pointers |
