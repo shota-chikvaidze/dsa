@@ -28,3 +28,4 @@ dsa/
 | 2026-06-1 | Contains Duplicate | easy | Arrays and hashing |
 | 2026-06-2 | Trapping rain water | hard | two pointers |
 | 2026-06-2 | Best Time to Buy and Sell Stock | easy | sliding window |
+| 2026-06-2 | Longest Substring Without Repeating Characters | medium | sliding window |
