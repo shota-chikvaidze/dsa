@@ -1,7 +1,7 @@
 // Longest Substring Without Repeating Characters
 // https://neetcode.io/problems/longest-substring-without-duplicates
 
-class Solution {
+class LongestSubstring {
     /**
      * @param {string} s
      * @return {number}
