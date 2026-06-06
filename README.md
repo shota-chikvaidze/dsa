@@ -31,3 +31,4 @@ dsa/
 | 2026-06-3 | Longest Substring Without Repeating Characters | medium | sliding window |
 | 2026-06-3 | Longest Repeating Character Replacement | medium | sliding window |
 | 2026-06-5 | Top K Frequent Elements | medium | Arrays and hashing |
+| 2026-06-6 | Left and Right sum differences | easy | Arrays |
