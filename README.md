@@ -33,3 +33,4 @@ dsa/
 | 2026-06-5 | Top K Frequent Elements | medium | Arrays and hashing |
 | 2026-06-6 | Left and Right sum differences | easy | Arrays |
 | 2026-06-7 | Permutation in String | medium | sliding window |
+| 2026-06-7 | Merge sorted array | medium | two pointers |
