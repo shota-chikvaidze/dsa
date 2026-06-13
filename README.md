@@ -32,7 +32,8 @@ dsa/
 | 2026-06-3 | Longest Repeating Character Replacement | medium | sliding window |
 | 2026-06-5 | Top K Frequent Elements | medium | Arrays and hashing |
 | 2026-06-6 | Left and Right sum differences | easy | Arrays |
-| 2026-06-7 | Permutation in String | medium | sliding window |
-| 2026-06-7 | Merge sorted array | medium | two pointers |
-| 2026-06-7 | Merge Strings Alternately | easy | two pointers |
-| 2026-06-7 | Contains Duplicate II | easy | sliding window |
+| 2026-06-8 | Permutation in String | medium | sliding window |
+| 2026-06-8 | Merge sorted array | medium | two pointers |
+| 2026-06-11 | Merge Strings Alternately | easy | two pointers |
+| 2026-06-12 | Contains Duplicate II | easy | sliding window |
+| 2026-06-13 | Min Stack | medium | stack |
