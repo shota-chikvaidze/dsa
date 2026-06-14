@@ -37,3 +37,4 @@ dsa/
 | 2026-06-11 | Merge Strings Alternately | easy | two pointers |
 | 2026-06-12 | Contains Duplicate II | easy | sliding window |
 | 2026-06-13 | Min Stack | medium | stack |
+| 2026-06-14 | Daily Temperatures | medium | stack |
