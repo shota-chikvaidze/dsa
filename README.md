@@ -38,3 +38,4 @@ dsa/
 | 2026-06-12 | Contains Duplicate II | easy | sliding window |
 | 2026-06-13 | Min Stack | medium | stack |
 | 2026-06-14 | Daily Temperatures | medium | stack |
+| 2026-06-15 | Sort an Array | easy | Arrays and hashing |
