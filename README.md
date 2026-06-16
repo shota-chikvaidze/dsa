@@ -39,3 +39,4 @@ dsa/
 | 2026-06-13 | Min Stack | medium | stack |
 | 2026-06-14 | Daily Temperatures | medium | stack |
 | 2026-06-15 | Sort an Array | easy | Arrays and hashing |
+| 2026-06-16 | Remove Duplicates From Sorted Array | easy | two pointers |
