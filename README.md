@@ -41,3 +41,4 @@ dsa/
 | 2026-06-15 | Sort an Array | easy | Arrays and hashing |
 | 2026-06-16 | Remove Duplicates From Sorted Array | easy | Two pointers |
 | 2026-06-17 | Evaluate Reverse Polish Notation | medium | Stack |
+| 2026-06-18 | Largest Rectangle In Histogram | hard | Stack |

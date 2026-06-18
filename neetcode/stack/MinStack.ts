@@ -1,7 +1,6 @@
 // Min Stack
 // https://neetcode.io/problems/minimum-stack
 
-
 class MinStack {
     data: any;
     min: any
