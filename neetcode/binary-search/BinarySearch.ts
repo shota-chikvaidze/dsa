@@ -1,3 +1,6 @@
+// Binary Search
+// https://neetcode.io/problems/binary-search
+
 class Solution {
     /**
      * @param {number[]} nums
