@@ -1,7 +1,7 @@
 // Binary Search
 // https://neetcode.io/problems/binary-search
 
-class Solution {
+class BinarySearch {
     /**
      * @param {number[]} nums
      * @param {number} target
