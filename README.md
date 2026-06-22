@@ -45,3 +45,4 @@ dsa/
 | 2026-06-19 | Binary Search | easy | Binary search |
 | 2026-06-20 | Search a 2D Matrix | medium | Binary search |
 | 2026-06-21 | Find Minimum in Rotated Sorted Array | medium | Binary search |
+| 2026-06-22 | Search in Rotated Sorted Array | medium | Binary search |
