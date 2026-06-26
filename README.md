@@ -49,3 +49,4 @@ dsa/
 | 2026-06-23 | Koko Eating Bananas | medium | Binary search |
 | 2026-06-25 | Reverse Linked List | easy | Linked List |
 | 2026-06-25 | Merge Two Sorted Linked Lists | easy | Linked List |
+| 2026-06-26 | Cycle Detection | easy | Linked List |
