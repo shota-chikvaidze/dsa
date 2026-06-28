@@ -51,3 +51,4 @@ dsa/
 | 2026-06-25 | Merge Two Sorted Linked Lists | easy | Linked List |
 | 2026-06-26 | Cycle Detection | easy | Linked List |
 | 2026-06-27 | Add Two Numbers | medium | Linked List |
+| 2026-06-28 | Remove Nth Node From End of List | medium | Linked List |
