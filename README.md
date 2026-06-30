@@ -53,3 +53,4 @@ dsa/
 | 2026-06-27 | Add Two Numbers | medium | Linked List |
 | 2026-06-28 | Remove Nth Node From End of List | medium | Linked List |
 | 2026-06-29 | Find the Duplicate Number | medium | Linked List |
+| 2026-06-30 | Reorder Linked List | medium | Linked List |
