@@ -55,3 +55,4 @@ dsa/
 | 2026-06-29 | Find the Duplicate Number | medium | Linked List |
 | 2026-06-30 | Reorder Linked List | medium | Linked List |
 | 2026-06-2 | Invert Binary Tree | easy | Tree |
+| 2026-06-5 | Maximum Depth of Binary Tree | easy | Tree |
