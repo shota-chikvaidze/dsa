@@ -57,3 +57,4 @@ dsa/
 | 2026-07-2 | Invert Binary Tree | easy | Tree |
 | 2026-07-5 | Maximum Depth of Binary Tree | easy | Tree |
 | 2026-07-12 | Subtree of Another Tree | easy | Tree |
+| 2026-07-13 | Balanced Binary Tree | easy | Tree |
