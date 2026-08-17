@@ -60,3 +60,4 @@ dsa/
 | 2026-07-13 | Balanced Binary Tree | easy | Tree |
 | 2026-07-16 | Binary Tree Right Side View | medium | Tree |
 | 2026-07-19 | Diameter of Binary Tree | easy | Tree |
+| 2026-08-17 | Remove Element | easy | Array |
