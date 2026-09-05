@@ -65,3 +65,4 @@ dsa/
 | 2026-09-03 | Length of Last Word | easy | String |
 | 2026-09-04 | Majority Element | easy | Array, Hash Table |
 | 2026-09-04 | Move Zeroes | easy | Array, Two pointers |
+| 2026-09-05 | Intersection of Two Arrays | easy | Array, Hash Table, Set |
